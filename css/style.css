@@ -1,0 +1,60 @@
+/* Style for body */
+body
+{
+    font-family: "Lato", sans-serif; 
+    color: #2d3c49; 
+}
+
+/* Style for udacity logo */
+.logo
+{
+    padding-top: 20px; 
+    height: 22%; 
+}
+
+/* modified 'jane doette' name */
+.my-name
+{
+    font-weight:100; 
+    font-size: 60px; 
+    margin-right: 20px; 
+}
+
+.name
+{
+    margin-right: 20px; 
+}
+
+h4
+{
+    font-size: 26px; 
+    padding-top: 10px; 
+    font-weight: bold; 
+}
+
+hr
+{
+    height: 5px; 
+    background-color: #7d97ad; 
+}
+
+/* modified Featured section */
+.featured
+{
+    color: #7d97ad; 
+    font-weight: bold; 
+}
+
+.project
+{
+    width: 100%; 
+}
+
+h3
+{
+    font-weight: bold; 
+}
+a
+{
+    text-decoration: none; 
+}
